@@ -1,4 +1,16 @@
----
+-{
+  "audio": {
+    "content": "/* Your audio */"
+  },
+  "config": {
+    "diarizationSpeakerCount": 3,
+    "enableAutomaticPunctuation": true,
+    "enableSpeakerDiarization": true,
+    "encoding": "LINEAR16",
+    "languageCode": "th-TH",
+    "model": "default"
+  }
+}50000Code​Flow​Flow​Flow​Flow​6​Flow​Flow​Flow​Flow​Flow​Flow​Flow​Flow​Flow​Flow​Flow​Flow​666​-
 title: Hello World
 intro: 'Follow this Hello World exercise to get started with {% data variables.product.product_name %}.'
 versions:
